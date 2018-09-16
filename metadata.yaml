@@ -1,0 +1,41 @@
+_repo: From-an-Unseen-Censor_51758
+_version: 0.0.1
+contributor:
+  illustrators:
+  - agent_name: Dillon, Diane
+    alias: Dillon, Diane Claire Sorber
+    birthdate: &id001 1933
+    gutenberg_agent_id: '32729'
+    url: http://www.gutenberg.org/2009/agents/32729
+  - agent_name: Dillon, Leo
+    birthdate: *id001
+    deathdate: 2012
+    gutenberg_agent_id: '32728'
+    url: http://www.gutenberg.org/2009/agents/32728
+creator:
+  author:
+    agent_name: Brown, Rosel George
+    birthdate: 1926
+    deathdate: 1967
+    gutenberg_agent_id: '34873'
+    url: http://www.gutenberg.org/2009/agents/34873
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2016-04-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51758'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Uncles -- Fiction'
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+- !lcsh 'Mystery fiction'
+- !lcsh 'Inheritance and succession -- Fiction'
+- !lcsh 'Extrasolar planets -- Fiction'
+- GITenberg
+title: From an Unseen Censor
+url: http://www.gutenberg.org/ebooks/51758
